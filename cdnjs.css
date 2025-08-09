@@ -47,7 +47,7 @@ nav section ol{
 main{
     /* border: 2px solid blue; */
     height: 619px;
-    background:url('./assets/main\ svg.svg')center 55%/100%,linear-gradient(rgba(0,0,0,0.7));
+    background:url('assets/main svg.svg') center 55%/100%, linear-gradient(rgba(0,0,0,0.7));
     color: white;
 }
 main h1{
