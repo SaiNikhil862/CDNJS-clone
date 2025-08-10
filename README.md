@@ -4,7 +4,7 @@ A responsive web application that replicates the CDNJS interface using HTML and 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://sainikhil862.github.io/CDNJS-clone/) *(Enable GitHub Pages to activate this link)*
+[View Live Demo](https://sainikhil862.github.io/CDNJS-clone/) 
 
 ## 📸 Preview
 
